@@ -1,7 +1,7 @@
 # Lit MFA
 Multi-factor authentication with Lit Protocol
 
-## Overview
+## Overview
 
 This example web app demonstrates the implementation of a robust Multi-Factor Authentication (MFA) system using Lit Protocol's JS SDK. It supports various authentication methods.
 
