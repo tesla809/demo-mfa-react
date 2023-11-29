@@ -1,7 +1,8 @@
-# MFA w/ Lit
+# Lit MFA
 Multi-factor authentication with Lit Protocol
 
 ## Overview
+
 This example web app demonstrates the implementation of a robust Multi-Factor Authentication (MFA) system using Lit Protocol's JS SDK. It supports various authentication methods.
 
 ### Supported Authentication Methods
@@ -18,8 +19,8 @@ To get started with this project, follow these steps:
 ### Clone the Repository
 
 ```bash
-git clone [your-repo-link]
-cd [your-project-name]
+git clone https://github.com/tesla809/demo-mfa-react.git
+cd demo-mfa-react
 ```
 
 ### Install Dependencies
